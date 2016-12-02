@@ -1,0 +1,6 @@
+print ("2 or 1")
+input() = choice
+if choice == "1":
+  print("test CoMpLeTe")
+if choice == "2":
+  print("test riuned")
